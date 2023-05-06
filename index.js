@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 var cors = require('cors');
-const model= require('./tfjs_models/model.json');
+const model= require('./tfjs_model7/model.json');
 
 
 
