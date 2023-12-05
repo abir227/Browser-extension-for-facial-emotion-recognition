@@ -2,6 +2,7 @@
 ### Introduction
 Our project is grounded in research, specifically inspired by the insights presented in the article titled "Artificial Neural Network Based Ensemble Approach for Multicultural Facial Expressions Analysis".
 Our research began with a thorough examination of various facial datasets, leading us to select the affectnet dataset.
+###
 We proceeded to train diverse deep learning models, adjusting their parameters to effectively classify emotions. 
 ###
 The models employed in our study included:
